@@ -1,0 +1,14 @@
+C:\Users\IT\Desktop\finals\bin\Debug\net7.0\finals.exe
+C:\Users\IT\Desktop\finals\bin\Debug\net7.0\finals.deps.json
+C:\Users\IT\Desktop\finals\bin\Debug\net7.0\finals.runtimeconfig.json
+C:\Users\IT\Desktop\finals\bin\Debug\net7.0\finals.dll
+C:\Users\IT\Desktop\finals\bin\Debug\net7.0\finals.pdb
+C:\Users\IT\Desktop\finals\obj\Debug\net7.0\finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\Desktop\finals\obj\Debug\net7.0\finals.AssemblyInfoInputs.cache
+C:\Users\IT\Desktop\finals\obj\Debug\net7.0\finals.AssemblyInfo.cs
+C:\Users\IT\Desktop\finals\obj\Debug\net7.0\finals.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\finals\obj\Debug\net7.0\finals.dll
+C:\Users\IT\Desktop\finals\obj\Debug\net7.0\refint\finals.dll
+C:\Users\IT\Desktop\finals\obj\Debug\net7.0\finals.pdb
+C:\Users\IT\Desktop\finals\obj\Debug\net7.0\finals.genruntimeconfig.cache
+C:\Users\IT\Desktop\finals\obj\Debug\net7.0\ref\finals.dll
